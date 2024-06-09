@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Patrik Mitro and I'm a full-stack developer currently studying in Košice. I primarily use React.js, Express.js, and TypeScript.
+My name is Patrik Mitro and I'm a full-stack developer currently studying in Košice. I primarily use React.js, Laravel, and TypeScript.
 
 
 <!--
