@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋
 
-My name is Patrik Mitro and I'm a full-stack developer currently studying in Košice. I primarily work with React.js and Laravel.
+Full-Stack developer currently studying in Košice. I primarily work with React.js and Laravel.
 
 
 <!--
